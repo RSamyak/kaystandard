@@ -1,0 +1,12 @@
+# Decks
+
+Applies to talk slides.  `repos.md` also applies.
+
+Start from `kaystandard-template-deck`.
+
+- Track source, rendered HTML, and frozen PDF.
+- Present the HTML.
+- Frozen PDF at the repo root.  Its filename is the talk's title.  Not `slides.pdf`.
+- Template palette by default.  May be overridden.
+- Laconic slides.  Evidence and structure on slide; narrative and logistics spoken.
+- Deliberate reveals.  Do not pre-empt them.

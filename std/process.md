@@ -1,0 +1,16 @@
+# Process
+
+Applies during development.  `repos.md` also applies.
+
+- Understand before changing.
+- If unclear or ambiguous, ask first.
+- Pursue the aim, not the literal wording.
+- Challenge when that serves the aim.
+- Do not wreck what already works.
+- Do not widen the change.
+- Omission over invention.
+- Verify the change.
+
+- No needless complexity.  No unnecessary frugality.  Balance.
+
+Above all, write beautiful, elegant code.  Something that would make you smile, and brings joy to the world.
