@@ -7,3 +7,4 @@ Omit needless words.  Every word earns its place.
 - Two spaces after full stop.
 - Use Oxford comma.
 - If applicable, follow RFC 2119.
+- When referencing names, do not use just surnames.  ('Sen', 'Singh', 'Pandey' etc are ambiguous.  Use given names too.)
